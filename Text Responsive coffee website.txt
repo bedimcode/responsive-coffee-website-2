@@ -1,0 +1,118 @@
+========== HEADER ==========
+.nav__logo
+Coffetto
+
+.nav__link
+Home
+
+About
+
+Steps
+
+Testimonial
+
+
+========== HOME ==========
+.home__subtitle
+EXCEPTIONAL QUALITY
+
+.home__title
+It's time for a <br>
+good coffee
+
+.home__description
+Each select coffee bean reflects our commitment 
+to Peruvian coffee growers, who bring the best 
+select coffee to your table.
+
+.button
+Get Started
+
+
+========== PRODUCTS ==========
+.products__button
+Scroll Down
+
+.products__description
+We strive to form deep partnerships with farmers 
+from all over the world to create perspective 
+together and form healthy working relationships 
+built on trust and respect.
+
+.products__name .products__price
+Classic Coffee
+$17.90
+
+Black coffee
+$24.90
+
+Strong coffee
+$32.90
+
+
+========== ABOUT ==========
+.section__title
+Our History
+
+.about__description
+We make and grow the best coffee in Peru, accompanying 
+families since 1930, with professional workers who 
+harvest, collect and select the coffee with quality 
+work, thus providing exquisite coffee to enjoy together 
+as a family.
+
+
+========== STEPS ==========
+.section__title
+Steps of manufacturing our products
+
+.steps__circle .steps__description
+01
+Harvest occurs annually when the coffee 
+beans reach maturity and are collected 
+for processing.
+
+02
+The beans are dried using a wet or dry 
+technique, depending on the taste we want 
+to obtain.
+
+03
+The coffee is roasted and acquires 
+its flavor by processing the grain 
+in ovens.
+
+
+========== TESTIMONIAL ==========
+.section__title
+Coffee is the best drink in the 
+morning, it keeps you focused.
+
+.testimonial__name
+Jhon Doe
+
+
+========== FOOTER ==========
+.footer__logo
+Coffetto
+
+.footer__title
+Sign up for our newsletter
+
+.footer__input - placeholder
+Enter e-mail address
+
+.footer__button
+Subscribe
+
+.footer__description
+We care about your data. Read our 
+Privacy Policy
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
